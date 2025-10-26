@@ -1,0 +1,336 @@
+body {
+  margin: 0;
+  width: 1280px;
+}
+header {
+  background: url(./icons/HeaderSection.jpg);
+  height: 786px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.header-cap {
+  background-color: #0d1f08;
+}
+.header-cap-middle {
+  display: flex;
+  justify-content: space-between;
+  height: 24px;
+  margin: 20px 50px 20px 50px;
+  }
+.header-nav-links-content {
+  color: #ffffff;
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  width: 195px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-nav-links-content-consuil {
+  color: #f2f2f2;
+}
+.header-content {
+  height: 236px;
+  margin: 0 50px 70px 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between ;
+  
+}
+.header-content-paragraphA {
+  color: #f2f2f2;
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  width: 1088px;
+  font-size: 120px;
+  white-space: nowrap;
+  letter-spacing: -3px;
+  line-height: 95%;
+  margin: 0;
+}
+.header-container-paragraph-B-C {
+  color: #f2f2f2;
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  display: flex;
+  justify-content:space-between ;
+  }
+.header-content-paragraph-B {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 109%;
+  letter-spacing: -5%;
+  width: 623px;
+  height: 35px;
+  margin: 0;
+}
+.header-content-paragraph-C {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 135%;
+  letter-spacing: -2%;
+  width: 370px;
+  height: 48px;
+  margin: 0;
+}
+.main-section {
+  padding: 135px 186px 178px 152px;
+  background-color: #f7f4eb;
+}
+.main-contenct-heading{
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 109%;
+  letter-spacing: -5%;
+  color: #000000;
+  margin: 0;
+}
+.main-contenct-paragraph-A-B {
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 135%;
+  letter-spacing: -2%;
+  height: 300px;
+  display: flex;
+}
+.main-contenct-paragraph-A {
+  margin: 60px 48px 0 0; 
+  width: 447px;
+}
+.main-contenct-paragraph-B {
+  margin: 60px 0 0 0;
+  width: 447px;
+}
+.main-contenct-link {
+  border-radius: 500px;
+  background-color: #31110F;
+  border: 0;
+  width: 202px;
+  height: 58px;
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 120%;
+  letter-spacing: -2%;
+  color: #ffffff;
+  margin: 0;
+}
+.main-img-breaker{
+  margin: 0 0 -4px 0;
+}
+.offering-section {
+  background-color: #0d1f08;
+  padding: 93px 0 126px 152px;
+}
+.offering-content {
+  height: 698px;
+  display: flex;
+}
+.offering-subhead{
+  width: 276px;
+  height: 35px;
+}
+.offering-subhead-paragraph {
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 109%;
+  letter-spacing: -5%;
+  color: #f7f4eb;
+  margin: 0;
+}
+.offering-list-items {
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 76px;
+  line-height: 95%;
+  letter-spacing: -6%;
+  color: #f7f4eb;
+}
+.offering-list-items-paragraph-A {
+    margin: 0;
+}
+.offering-list-items-paragraph-B {
+    color: #fff0c4;
+    opacity: 0.5;
+    margin: 0;
+}
+.offering-subhead-paragraph-button {
+  border-radius: 500px;
+  background-color: #ffffff;
+  border: 0;
+  width: 117px;
+  height: 58px;
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 120%;
+  letter-spacing: -2%;
+  color: #000000;
+  margin-top: 64px;
+}
+.our-clients-section {
+  padding: 116px 271px 116px 271px;
+}
+.our-clients-intro{
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 109%;
+  letter-spacing: -5%;
+  color: #000000;
+  margin: 0;
+  height: 139px;
+  text-align: center;
+}
+.our-clients-intro-heading{
+  margin: 0;
+}
+.our-clients-intro-paragraph {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 135%;
+  letter-spacing: -2%;
+  margin: 32px 129px 0 129px;
+}
+.our-clients-carousel{
+  background-color: #f6f6f6;
+  width: 738px;
+  height: 445px;
+}
+.our-clients-carousel-content {
+  margin: 32px 50px 80px 50px;
+}
+.our-clients-carousel-bar {
+  margin: 0 289.56px 32px 289.56px;
+}
+.our-clients-carousel-quotes {
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 109%;
+  letter-spacing: -5%;
+  color: #000000;
+  text-align: center;
+}
+.our-clients-outro-paragraph {
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 135%;
+  letter-spacing: -2%;
+  color: #000000;
+  text-align: center;
+  margin: 56px 129px 0 129px;
+}
+.our-clients-button {
+  border-radius: 500px;
+  background-color: #31110F;
+  border: 0;
+  width: 202px;
+  height: 58px;
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 120%;
+  letter-spacing: -2%;
+  color: #ffffff;
+  margin: 74px 268px 116px 268px;
+}
+.main-img-divider {
+height: 625px;
+margin: 0 0 -3px 0;
+}
+footer {
+  background-color: #f7f4eb;
+  height: 444px;
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing: 0%;
+  color: #000000;
+  padding: 68px 152px 68px 152px;
+  margin: 0;
+}
+.footer-header {
+  height: 42.62px;
+  margin-bottom: 84px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-header-logo {
+  width: 49.91px;
+  height: 37.16px;
+}
+.footer-header-img-A {
+  width: 404.64px;
+  height: 42.62px;
+}
+.footer-header-img{
+  background-color: #f7f4eb; 
+}
+.footer-subhead{
+   font-size: 18px;
+  height: 24px;
+  margin-bottom: 84px;
+}
+.footer-contact {
+  display: flex;
+  margin: 0 121px 84px 0;
+}
+.footer-contact-column-A {
+  width: 255px;
+  margin: 0 45px 44px 0;
+  display: flex;
+  flex-direction: column;
+}
+.footer-contact-column-B {
+  width: 255px;
+  margin: 0 45px 26px 0;
+}
+.footer-contact-column-C {
+  display: flex;
+  flex-direction: column;
+}
+.footer-copyright {
+  width: 197px;
+  height: 40px;
+  margin: 84px 658px 0 0; 
+}
+.footer-copyright-paragraph {
+  margin: 0;
+}
+.footer-contact-column-B-paragraph {
+  margin: 0;
+}
