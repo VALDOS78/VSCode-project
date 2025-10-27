@@ -17,7 +17,7 @@ header {
   justify-content: space-between;
   height: 24px;
   margin: 20px 50px 20px 50px;
-  }
+}
 .header-nav-links-content {
   color: #ffffff;
   font-family: "Geist", sans-serif;
@@ -60,7 +60,7 @@ header {
   font-style: normal;
   display: flex;
   justify-content:space-between ;
-  }
+}
 .header-content-paragraph-B {
   font-weight: 500;
   font-size: 32px;
@@ -132,19 +132,19 @@ header {
 .main-img-breaker{
   margin: 0 0 -4px 0;
 }
-.offering-section {
+.main-offering-section {
   background-color: #0d1f08;
   padding: 93px 0 126px 152px;
 }
-.offering-content {
+.main-offering-content {
   height: 698px;
   display: flex;
 }
-.offering-subhead{
+.main-offering-subhead{
   width: 276px;
   height: 35px;
 }
-.offering-subhead-paragraph {
+.main-offering-subhead-paragraph {
   font-family: "Geist", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -155,7 +155,7 @@ header {
   color: #f7f4eb;
   margin: 0;
 }
-.offering-list-items {
+.main-offering-list-items {
   font-family: "Geist", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -165,15 +165,15 @@ header {
   letter-spacing: -6%;
   color: #f7f4eb;
 }
-.offering-list-items-paragraph-A {
+.main-offering-list-items-paragraph-A {
     margin: 0;
 }
-.offering-list-items-paragraph-B {
+.main-offering-list-items-paragraph-B {
     color: #fff0c4;
     opacity: 0.5;
     margin: 0;
 }
-.offering-subhead-paragraph-button {
+.main-offering-subhead-paragraph-button {
   border-radius: 500px;
   background-color: #ffffff;
   border: 0;
@@ -189,10 +189,10 @@ header {
   color: #000000;
   margin-top: 64px;
 }
-.our-clients-section {
+.main-our-clients-section {
   padding: 116px 271px 116px 271px;
 }
-.our-clients-intro{
+.main-our-clients-intro{
   font-family: "Geist", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -205,28 +205,28 @@ header {
   height: 139px;
   text-align: center;
 }
-.our-clients-intro-heading{
+.main-our-clients-intro-heading{
   margin: 0;
 }
-.our-clients-intro-paragraph {
+.main-our-clients-intro-paragraph {
   font-weight: 400;
   font-size: 18px;
   line-height: 135%;
   letter-spacing: -2%;
   margin: 32px 129px 0 129px;
 }
-.our-clients-carousel{
+.main-our-clients-carousel{
   background-color: #f6f6f6;
   width: 738px;
   height: 445px;
 }
-.our-clients-carousel-content {
+.main-our-clients-carousel-content {
   margin: 32px 50px 80px 50px;
 }
-.our-clients-carousel-bar {
+.main-our-clients-carousel-bar {
   margin: 0 289.56px 32px 289.56px;
 }
-.our-clients-carousel-quotes {
+.main-our-clients-carousel-quotes {
   font-family: "Geist", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -237,7 +237,7 @@ header {
   color: #000000;
   text-align: center;
 }
-.our-clients-outro-paragraph {
+.main-our-clients-outro-paragraph {
   font-family: "Geist", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -249,7 +249,7 @@ header {
   text-align: center;
   margin: 56px 129px 0 129px;
 }
-.our-clients-button {
+.main-our-clients-button {
   border-radius: 500px;
   background-color: #31110F;
   border: 0;
